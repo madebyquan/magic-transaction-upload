@@ -1,2 +1,10 @@
-.vercel
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Other common entries
 node_modules
+.next
+build
+dist
